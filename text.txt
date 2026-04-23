@@ -1,1 +1,2 @@
 today is monday.
+tomorrow is tuesday.
