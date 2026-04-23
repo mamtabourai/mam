@@ -1,4 +1,5 @@
 today is monday.
-tomorrow is sunday.
 yesterday was sunday.
 weekend is far.
+tomorrow is tuesday.
+
