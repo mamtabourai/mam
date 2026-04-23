@@ -1,2 +1,2 @@
 today is monday.
-tomorrow is monday.
+tomorrow is sunday.
